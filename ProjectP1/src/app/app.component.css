@@ -614,3 +614,9 @@ contact-btn:hover {
 .footer-text {
   color: #fff;
 }
+
+@media screen and (min-width: 1730px) {
+  .inner-container {
+    width: 130rem;
+  }
+}
